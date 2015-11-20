@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number24</string>
+    <string name="number1">数字1</string>
+    <string name="number2">数字2</string>
+    <string name="number3">数字3</string>
+    <string name="number4">数字4</string>
+    <string name="calculate">计算</string>
+</resources>
