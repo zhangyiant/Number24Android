@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     r = r + "=24";
                 }
+
                 txtResult.setText(r);
             }
         });
